@@ -22,11 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -38,8 +46,7 @@
               "RelativeToolTip": "TareaMetodosdeBusqueda\\Otro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T03:32:15.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T03:32:15.68Z"
             },
             {
               "$type": "Document",
@@ -51,8 +58,7 @@
               "RelativeToolTip": "TareaMetodosdeBusqueda\\Search.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T03:31:40.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T03:31:40.59Z"
             },
             {
               "$type": "Document",
@@ -62,18 +68,10 @@
               "RelativeDocumentMoniker": "TareaMetodosdeBusqueda\\Program.cs",
               "ToolTip": "D:\\Tareas progra\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\Program.cs",
               "RelativeToolTip": "TareaMetodosdeBusqueda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T03:30:26.474Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         },

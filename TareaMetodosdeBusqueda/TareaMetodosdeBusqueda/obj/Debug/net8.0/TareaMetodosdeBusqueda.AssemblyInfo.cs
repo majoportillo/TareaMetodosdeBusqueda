@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaMetodosdeBusqueda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba29489ee49ff52c58ed5cf0f6bfd23cc357ce4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaMetodosdeBusqueda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaMetodosdeBusqueda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

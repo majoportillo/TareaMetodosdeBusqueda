@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C2445202-7AA5-40AB-977A-988F08FC5554}|TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda.csproj|d:\\tareas progra\\tareametodosdebusqueda\\tareametodosdebusqueda\\tareametodosdebusqueda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2445202-7AA5-40AB-977A-988F08FC5554}|TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda.csproj|solutionrelative:tareametodosdebusqueda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2445202-7AA5-40AB-977A-988F08FC5554}|TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda.csproj|d:\\tareas progra\\tareametodosdebusqueda\\tareametodosdebusqueda\\tareametodosdebusqueda\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2445202-7AA5-40AB-977A-988F08FC5554}|TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda.csproj|solutionrelative:tareametodosdebusqueda\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2445202-7AA5-40AB-977A-988F08FC5554}|TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda.csproj|d:\\tareas progra\\tareametodosdebusqueda\\tareametodosdebusqueda\\tareametodosdebusqueda\\otro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2445202-7AA5-40AB-977A-988F08FC5554}|TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda.csproj|solutionrelative:tareametodosdebusqueda\\otro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Otro.cs",
+              "DocumentMoniker": "D:\\Tareas progra\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\Otro.cs",
+              "RelativeDocumentMoniker": "TareaMetodosdeBusqueda\\Otro.cs",
+              "ToolTip": "D:\\Tareas progra\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\Otro.cs",
+              "RelativeToolTip": "TareaMetodosdeBusqueda\\Otro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:32:15.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cs",
+              "DocumentMoniker": "D:\\Tareas progra\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\Search.cs",
+              "RelativeDocumentMoniker": "TareaMetodosdeBusqueda\\Search.cs",
+              "ToolTip": "D:\\Tareas progra\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\Search.cs",
+              "RelativeToolTip": "TareaMetodosdeBusqueda\\Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:31:40.59Z"
             },
             {
               "$type": "Document",
@@ -28,22 +68,10 @@
               "RelativeDocumentMoniker": "TareaMetodosdeBusqueda\\Program.cs",
               "ToolTip": "D:\\Tareas progra\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\TareaMetodosdeBusqueda\\Program.cs",
               "RelativeToolTip": "TareaMetodosdeBusqueda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T03:30:26.474Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         },

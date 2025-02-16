@@ -1,0 +1,14 @@
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\bin\Debug\net8.0\TareaMetodosdeBusqueda.exe
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\bin\Debug\net8.0\TareaMetodosdeBusqueda.deps.json
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\bin\Debug\net8.0\TareaMetodosdeBusqueda.runtimeconfig.json
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\bin\Debug\net8.0\TareaMetodosdeBusqueda.dll
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\bin\Debug\net8.0\TareaMetodosdeBusqueda.pdb
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.AssemblyInfoInputs.cache
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.AssemblyInfo.cs
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.csproj.CoreCompileInputs.cache
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.dll
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\refint\TareaMetodosdeBusqueda.dll
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.pdb
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\TareaMetodosdeBusqueda.genruntimeconfig.cache
+D:\Tareas progra\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\TareaMetodosdeBusqueda\obj\Debug\net8.0\ref\TareaMetodosdeBusqueda.dll
